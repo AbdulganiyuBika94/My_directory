@@ -1,1 +1,1 @@
-My readme
+My readme of General distribution
